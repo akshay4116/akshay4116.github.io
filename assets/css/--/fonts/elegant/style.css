@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'ElegantIcons';
-	src:url('html/united/assets/fonts/elegant/fonts/ElegantIcons.eot');
-	src:url('html/united/assets/fonts/elegant/html/united/assets/fonts/elegant/fonts/ElegantIcons.eot') format('embedded-opentype'),
-		url('html/united/assets/fonts/elegant/fonts/ElegantIcons.woff') format('woff'),
-		url('html/united/assets/fonts/elegant/fonts/ElegantIcons.ttf') format('truetype'),
-		url('html/united/assets/fonts/elegant/fonts/ElegantIcons.svg') format('svg');
+	src:url(' assets/fonts/elegant/fonts/ElegantIcons.eot');
+	src:url(' assets/fonts/elegant/ assets/fonts/elegant/fonts/ElegantIcons.eot') format('embedded-opentype'),
+		url(' assets/fonts/elegant/fonts/ElegantIcons.woff') format('woff'),
+		url(' assets/fonts/elegant/fonts/ElegantIcons.ttf') format('truetype'),
+		url(' assets/fonts/elegant/fonts/ElegantIcons.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

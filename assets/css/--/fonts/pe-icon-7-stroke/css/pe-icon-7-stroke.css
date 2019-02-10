@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Pe-icon-7-stroke';
-	src:url('html/united/assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.eot');
-	src:url('html/united/assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.eot') format('embedded-opentype'),
-		url('html/united/assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.woff') format('woff'),
-		url('html/united/assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.ttf') format('truetype'),
-		url('html/united/assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.svg') format('svg');
+	src:url(' assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.eot');
+	src:url(' assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.eot') format('embedded-opentype'),
+		url(' assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.woff') format('woff'),
+		url(' assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.ttf') format('truetype'),
+		url(' assets/fonts/pe-icon-7-stroke/css/--/fonts/Pe-icon-7-stroke.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
