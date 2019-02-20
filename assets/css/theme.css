@@ -3376,9 +3376,9 @@ blockquote.b-blockquote-post p {
 
 
 .sl-bottom{
-    -webkit-transition:  all .7s;
-    transition: all  all .7s;
-    background-color:#333;
+    -webkit-transition:  all .1s;
+    transition: all  all .1s;
+    background-color:#000;
     position: fixed;
     bottom: 0%;
     left: 0;
